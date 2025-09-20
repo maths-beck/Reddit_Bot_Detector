@@ -1,2 +1,1 @@
-# Reddit_Bot_Detector
-Algoritmo de detecção de contas administradas por bots na rede social Reddit.
+Esse algoritmo foi desenvolvido durante um Hackathon, organizado pelo Grupo RAIA em parceria com a empresa .monks, voltado para aplicações de IA. O tema a ser abordado é a Desinformação, no caso atacamos justamente o problema de contas administradas por Bots, responsáveis por boa parte da disseminação de mensagens tendenciosas.
